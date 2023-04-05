@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 ### Dev. Caio Bello.
   <div align="center">
 <p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=your-github-caiobzm" /></p> 
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobzm&style=for-the-badge" /></p> 
 </div>
   
 
