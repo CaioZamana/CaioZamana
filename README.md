@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 # Skills in improvement:
 ### Java, MySql, Docker, Html, CSS, JavaScrpit.
-
+ 
 <br>
 
 # Tools:
