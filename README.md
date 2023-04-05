@@ -45,11 +45,9 @@ Here are some ideas to get you started:
 # Tools:
 ### Eclipse IDE, MySql WorkBench, Ubuntu, Windows, Oracle Virtual Box, Visual Studio Code.
 <br>
-<br>
 
 #
 ### Dev. Caio Bello.
-
   <a href="https://www.linkedin.com/in/caio-bello-262184212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
