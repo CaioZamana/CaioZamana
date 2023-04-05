@@ -51,8 +51,12 @@ Here are some ideas to get you started:
 #
 ### Dev. Caio Bello.
   <div align="center">
-<p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobzm&style=for-the-badge" /></p> 
+  
+  <a href="https://www.linkedin.com/in/caio-bello-262184212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+<p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobzm&style=for-the-badge" />
+  </p> 
+  
 </div>
   
 
