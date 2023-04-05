@@ -8,7 +8,6 @@ https://ashutosh00710.github.io/github-readme-activity-graph/
 
 ### Hi there 👋
 
-**caiobzm/caiobzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -29,11 +28,11 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0487D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Caio+Bello,+from+Brasil-SP;Welcome+to+my+Github's+profile!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobzm&show_icons=true" alt="Caio Zamana github stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobzm&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobello&show_icons=true" alt="Caio Zamana github stats" /> 
+  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caiobzm&bg_color=FFFFFF&color=0487D9&line=0487D9&point=0442BF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caiobello&bg_color=FFFFFF&color=0487D9&line=0487D9&point=0442BF&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
   
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/caio-bello-262184212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  <!-- <div align="center">
-    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobzm&style=for-the-badge" />
+    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobello&style=for-the-badge" />
   </p>  -->
   
 </div>
