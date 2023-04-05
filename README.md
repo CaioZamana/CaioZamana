@@ -52,10 +52,6 @@ Here are some ideas to get you started:
     <a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <div align="center">
-    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobello&style=for-the-badge" />
-  </p>  
-  
-</div>
-  
-
+    <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=caiobello&style=for-the-badge" /> </p>  
+ </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=footer"/>
