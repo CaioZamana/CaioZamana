@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobello&show_icons=true" alt="Caio Zamana github stats" /> 
-  <img width="43%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
 </div>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caiobello&bg_color=FFFFFF&color=0487D9&line=0487D9&point=0442BF&area=false&hide_border=true)
