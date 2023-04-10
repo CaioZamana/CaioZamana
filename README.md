@@ -42,9 +42,8 @@ Here are some ideas to get you started:
 
 # Skills in improvement:
 ### Java, MySql, Docker, Html, CSS, JavaScrpit.
+ <br>
  
-<br>
-
 # Tools:
 ### Eclipse IDE, MySql WorkBench, Ubuntu, Windows, Oracle Virtual Box, Visual Studio Code.
 <br>
