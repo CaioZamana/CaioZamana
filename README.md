@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ![templatecaio](https://user-images.githubusercontent.com/122856066/230841210-56b9e2ac-1307-47eb-b8cb-f8a04c00c650.PNG)
 
 
-  <a href="https://www.linkedin.com/in/caio-bello-262184212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/desenvolvedorcaiobello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href = "mailto:desenvolvedorcaiobello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
  <div align="center">
