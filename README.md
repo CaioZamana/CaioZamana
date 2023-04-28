@@ -43,11 +43,16 @@ Here are some ideas to get you started:
 # Skills in improvement:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)
 
-### Java, Kotlin, MySql, Docker, Html, CSS, JavaScrpit.
+### Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
  <br>
  
-# Tools:
-### Eclipse IDE, IntelliJ IDEA, XAMPP, MySql WorkBench, LinuxUbuntu, Windows, Oracle Virtual Box, Visual Studio Code.
+# IDEs:
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)
+### Eclipse IDE, IntelliJ IDEA and Visual Studio Code.
+<br>
+
+# Another Tools:
+### XAMPP, MySql WorkBench and Oracle Virtual Box.
 <br>
 
 
