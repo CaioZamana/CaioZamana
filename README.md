@@ -50,7 +50,7 @@ Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
  
  #
  
-### Integrated development environment(IDE):
+### Integrated development environment (IDE):
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
 Eclipse IDE, IntelliJ IDEA and Visual Studio Code.
 <br>
