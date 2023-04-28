@@ -28,14 +28,13 @@ Here are some ideas to get you started:
 
 My name is Caio B. Zamana, I am from Brasil, São Paulo.<br>
 
-#
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0487D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Caio+Bello,+from+Brasil-SP;Welcome+to+my+Github's+profile!+:%29)](https://git.io/typing-svg) -->
 
-###  Github stats 🔭
+
 <details>
 
-  <summary>Click here to see.</summary>
+  <summary>Click to see my Github stats 🔭.</summary>
    <br>
    
 <div align="center">  
