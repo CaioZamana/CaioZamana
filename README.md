@@ -41,7 +41,9 @@ Here are some ideas to get you started:
   
 
 # Skills in improvement:
-### Java, MySql, Docker, Html, CSS, JavaScrpit.
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)
+
+### Java, Kotlin, MySql, Docker, Html, CSS, JavaScrpit.
  <br>
  
 # Tools:
