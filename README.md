@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ###  Github Stats:
 <details>
-   <br>
+
   <summary>🔭Click here to see.</summary>
    <br>
    
