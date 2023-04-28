@@ -26,10 +26,10 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0487D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Caio+Bello,+from+Brasil-SP;Welcome+to+my+Github's+profile!+:%29)](https://git.io/typing-svg)
 
-###  Github Stats:
+###  Github Stats 🔭
 <details>
 
-  <summary>🔭Click here to see.</summary>
+  <summary>Click here to see.</summary>
    <br>
    
 <div align="center">  
@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 #
 
-### Skills in improvement:
+### Skills in Improvement:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
 Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
  <br>
