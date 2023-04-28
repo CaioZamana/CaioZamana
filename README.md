@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### Hi there, welcome to my Github 👋 
 
-### My name is Caio B. Zamana, I am from Brasil, São Paulo.<br>
+My name is Caio B. Zamana, I am from Brasil, São Paulo.<br>
 
 #
 
