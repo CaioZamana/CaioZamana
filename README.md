@@ -24,9 +24,9 @@ Here are some ideas to get you started:
   
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=header"/> -->
 
-### Hello there 👋 
+### Hi there, welcome to my Github 👋 
 
-### My name is Caio Bello and I am from Brasil.<br>
+### My name is Caio B. Zamana, I am from Brasil, São Paulo.<br>
 
 #
 
