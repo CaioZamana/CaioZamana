@@ -65,16 +65,11 @@ IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 ### Another tools:
 XAMPP, MySql WorkBench and Oracle Virtual Box, Linux Ubuntu, Windows.
 <br>
-
 #
 
-![templatecaio](https://user-images.githubusercontent.com/122856066/230841210-56b9e2ac-1307-47eb-b8cb-f8a04c00c650.PNG)
-
-  <a href = "mailto:desenvolvedorcaiobello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/desenvolvedorcaiobello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-
-    
-  [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=55048991477921)  
-    
+### Talk with me:
+  [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=55048991477921)      
+  <a href = "mailto:desenvolvedorcaiobello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/desenvolvedorcaiobello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>    
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=footer"/>
 
 
