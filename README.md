@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  <br>
  
 # Tools:
-### Eclipse IDE, MySql WorkBench, Ubuntu, Windows, Oracle Virtual Box, Visual Studio Code.
+### Eclipse IDE, IntelliJ IDEA, XAMPP, MySql WorkBench, LinuxUbuntu, Windows, Oracle Virtual Box, Visual Studio Code.
 <br>
 
 
