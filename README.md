@@ -34,7 +34,7 @@ My name is Caio B. Zamana, I am from Brasil, São Paulo.<br>
 
 <details>
 
-  <summary>Click to see my Github stats 🔭.</summary>
+  <summary>Click to see my Github stats. 🔭</summary>
    <br>
    
 <div align="center">  
