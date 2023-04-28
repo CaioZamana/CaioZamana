@@ -72,7 +72,9 @@ XAMPP, MySql WorkBench and Oracle Virtual Box, Linux Ubuntu, Windows.
 
 
   <a href="https://www.linkedin.com/in/desenvolvedorcaiobello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:desenvolvedorcaiobello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href = "mailto:desenvolvedorcaiobello@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
+    
+  [![Badge](https://trkjvsaw6o22.runkit.sh)](https://api.whatsapp.com/send?phone=55048991477921)  
     
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=footer"/>
 
