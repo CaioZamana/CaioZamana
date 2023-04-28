@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0487D9&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+my+name+is+Caio+Bello,+from+Brasil-SP;Welcome+to+my+Github's+profile!+:%29)](https://git.io/typing-svg)
 
-###  Github Stats 🔭
+###  Github stats 🔭
 <details>
 
   <summary>Click here to see.</summary>
@@ -43,21 +43,21 @@ Here are some ideas to get you started:
 
 #
 
-### Skills in Improvement:
+### Skills in improvement:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
 Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
  <br>
  
  #
  
-### Integrated Development Environment(IDE):
+### Integrated development environment(IDE):
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
 Eclipse IDE, IntelliJ IDEA and Visual Studio Code.
 <br>
 
 #
 
-### Another Tools:
+### Another tools:
 XAMPP, MySql WorkBench and Oracle Virtual Box, Linux Ubuntu, Windows.
 <br>
 
