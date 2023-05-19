@@ -64,7 +64,7 @@ IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 #
 
 ### Another tools:
-XAMPP, MySql WorkBench and Oracle Virtual Box, Linux Ubuntu, Windows.
+MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 <br>
 #
 
