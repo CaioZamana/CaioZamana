@@ -50,8 +50,8 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 <!-- https://skillicons.dev/ -->
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
 ### Skills in improvement:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
-Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
+[![My Skills](https://skillicons.dev/icons?i=git,java,kotlin,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
+Git, Java, Kotlin, MySql, Docker, Html, CSS and JavaScrpit.
  <br>
  
  #
