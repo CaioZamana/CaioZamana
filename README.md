@@ -63,10 +63,10 @@ IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 
 #
 
-### Another tools:
+<!--### Another tools:
 MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 <br>
-#
+# -->
 
 <!-- https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
 
