@@ -43,7 +43,6 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 </div>
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=caiobello&bg_color=FFFFFF&color=0487D9&line=0487D9&point=0442BF&area=false&hide_border=true)
 </details>
 
 #
