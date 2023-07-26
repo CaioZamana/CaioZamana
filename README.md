@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0487D9&height=120&section=header"/> -->
 
-### Hi there, welcome to my Github 👋 
+# Hi there, welcome to my Github 👋 
 
 My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 
@@ -45,22 +45,32 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 
 </details>
 
-#
+
 <!-- https://skillicons.dev/ -->
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
-### 🛠 Skills in improvement:
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postman,git,github,gradle,maven,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
-Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, and JavaScrpit.
- <br>
- 
- #
- 
-### 👩‍💻 Integrated development environment (IDE):
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
-IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
-<br>
+# Skills in improvement:
+<!--[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postman,git,github,gradle,maven,mysql,docker,html,css,js,angular&theme=light)](https://github.com/caiobello/)-->
+<!-- Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, JavaScrpit, and now studying Angular. -->
+ ## Back-end
+ [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
+Java - Kotlin - Gradle - Maven - Spring Boot
 
-#
+## Front-end
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular&theme=light)](https://github.com/caiobello/)<br>
+HTML - CSS - JavaScript - (Now studying Angular)
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
+MySQL - PostgreSQL	
+
+## Another Tools
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
+Docker - Postman - Git - GitHub
+
+## Integrated development environment (IDE):
+[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
+IntelliJ - Eclipse - Visual Studio Code.
+<br>
 
 <!--### Another tools:
 MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
@@ -68,9 +78,8 @@ MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 # -->
 
 <!-- https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
-
+#
 ### Dev. Caio B. Zamana
-
   <a href="https://www.linkedin.com/in/desenvolvedorcaiobello/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://api.whatsapp.com/send?phone=55048991477921" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
