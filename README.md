@@ -63,7 +63,7 @@ HTML, CSS, JavaScript, and (Now studying) Angular
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
 MySQL and PostgreSQL	
 
-## Another Tools
+## Other Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
 Docker, Postman, Git and GitHub
 
