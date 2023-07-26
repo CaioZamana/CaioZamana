@@ -48,14 +48,14 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 #
 <!-- https://skillicons.dev/ -->
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
-### Skills in improvement:
+### 🛠 Skills in improvement:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postman,git,github,gradle,maven,mysql,docker,html,css,js&theme=light)](https://github.com/caiobello/)<br>
 Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, and JavaScrpit.
  <br>
  
  #
  
-### Integrated development environment (IDE):
+### 👩‍💻 Integrated development environment (IDE):
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
 IntelliJ IDEA, Eclipse IDE and Visual Studio Code.
 <br>
