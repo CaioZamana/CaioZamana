@@ -53,23 +53,23 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 <!-- Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, JavaScrpit, and now studying Angular. -->
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
-Spring - Java - Kotlin - Gradle - Maven
+Spring, Java, Kotlin, Gradle and Maven
 
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular&theme=light)](https://github.com/caiobello/)<br>
-HTML - CSS - JavaScript - (Now studying Angular)
+HTML, CSS, JavaScript, and (Now studying) Angular
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
-MySQL - PostgreSQL	
+MySQL and PostgreSQL	
 
 ## Another Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
-Docker - Postman - Git - GitHub
+Docker, Postman, Git and GitHub
 
 ## Integrated development environment (IDE):
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
-IntelliJ - Eclipse - Visual Studio Code.
+IntelliJ, Eclipse and Visual Studio Code.
 <br>
 
 <!--### Another tools:
