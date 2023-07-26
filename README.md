@@ -52,8 +52,8 @@ My name is Caio B. Zamana, I am from São Paulo, Brazil.<br>
 <!--[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postman,git,github,gradle,maven,mysql,docker,html,css,js,angular&theme=light)](https://github.com/caiobello/)-->
 <!-- Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, JavaScrpit, and now studying Angular. -->
  ## Back-end
- [![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
-Java - Kotlin - Gradle - Maven - Spring Boot
+ [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
+Spring - Java - Kotlin - Gradle - Maven
 
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,angular&theme=light)](https://github.com/caiobello/)<br>
