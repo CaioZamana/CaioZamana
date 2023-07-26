@@ -68,8 +68,8 @@ MySQL and PostgreSQL
 Docker, Postman, Git and GitHub
 
 ## IDEs
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
-IntelliJ, Eclipse and Visual Studio Code.
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://github.com/caiobello/)<br>
+IntelliJ and Visual Studio Code.
 <br>
 
 <!--### Other tools:
