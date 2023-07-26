@@ -67,7 +67,7 @@ MySQL and PostgreSQL
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
 Docker, Postman, Git and GitHub
 
-## Integrated development environment (IDE):
+## IDEs
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,vscode&theme=light)](https://github.com/caiobello/)<br>
 IntelliJ, Eclipse and Visual Studio Code.
 <br>
