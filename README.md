@@ -72,7 +72,7 @@ Docker, Postman, Git and GitHub
 IntelliJ, Eclipse and Visual Studio Code.
 <br>
 
-<!--### Another tools:
+<!--### Other tools:
 MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 <br>
 # -->
