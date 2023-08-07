@@ -57,8 +57,8 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 Spring, Java, Kotlin, Gradle and Maven
 
 ## Front-end
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://github.com/caiobello/)<br>
-HTML, CSS, JavaScript, and React
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,js&theme=light)](https://github.com/caiobello/)<br>
+React, HTML, CSS, JavaScript.
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
