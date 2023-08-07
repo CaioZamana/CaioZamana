@@ -58,7 +58,7 @@ Spring, Java, Kotlin, Gradle and Maven
 
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react&theme=light)](https://github.com/caiobello/)<br>
-HTML, CSS, JavaScript, and (Now studying) React
+HTML, CSS, JavaScript, and React
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
