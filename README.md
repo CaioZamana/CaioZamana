@@ -81,10 +81,24 @@ MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 <!-- https://github.com/iuricode/readme-template/blob/main/badges/badges.md -->
 #
 I am open to new challenges and collaboration opportunities. If you are interested in discussing projects or opportunities, feel free to reach out to me. I am excited to contribute to innovative projects and continue growing as a software developer.
-### Dev. Caio B. Zamana
+
   <a href="https://www.linkedin.com/in/caiozamana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://api.whatsapp.com/send?phone=55048991477921" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <table>
+  <tr>
+    <td>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/caiobello"/>
+    </td>
+    <td align="left">
+      <a href="https://github.com/caiobello">
+        <span><b>Caio B. Zamana</b></span>
+      </a>
+      <br>
+      <span>Desenvolvedor Full Stack</span>
+    </td>
+  </tr>
+</table>
 
 
 
