@@ -61,8 +61,8 @@ Spring, Java, Kotlin, Gradle and Maven
 React, NodeJs, NextJs, JavaScript, HTML, CSS.
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres&theme=light)](https://github.com/caiobello/)<br>
-MySQL and PostgreSQL	
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiobello/)<br>
+MySQL, PostgreSQL, MongoDB, NoSQL	
 
 ## Other Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
