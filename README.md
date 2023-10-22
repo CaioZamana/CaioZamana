@@ -51,7 +51,6 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=gitfind-react)](https://github.com/caiobello/gitfind-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=frases-poeticas-react)](https://github.com/caiobello/frases-poeticas-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=converter-plantuml)](https://github.com/caiobello/converter-plantuml)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=site-jogos-online-cb)](https://github.com/caiobello/site-jogos-online-cb)
 
 
 </div>
