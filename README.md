@@ -46,6 +46,7 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=santander-Java-backend-market-2023)](https://github.com/caiobello/santander-Java-backend-market-2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=tqi_Kotlin_backend_developer_2023)](https://github.com/caiobello/tqi_Kotlin_backend_developer_2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=receitas-praticas-sobremesas-react)](https://github.com/caiobello/receitas-praticas-sobremesas-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=video-recorder-react)](https://github.com/caiobello/video-recorder-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=react-portfolio-ranking-chart)](https://github.com/caiobello/react-portfolio-ranking-chart)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=gitfind-react)](https://github.com/caiobello/gitfind-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=frases-poeticas-react)](https://github.com/caiobello/frases-poeticas-react)
