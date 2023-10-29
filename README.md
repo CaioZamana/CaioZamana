@@ -62,8 +62,6 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 <!-- https://skillicons.dev/ -->
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
 # Stacks:
-<!--[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,postman,git,github,gradle,maven,mysql,docker,html,css,js,angular&theme=light)](https://github.com/caiobello/)-->
-<!-- Java, Kotlin, Spring, Postman, Git, Github, Gradle, Maven, MySql, Docker, Html, CSS, JavaScrpit, and now studying Angular. -->
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
 Spring, Java, Kotlin, Gradle and Maven
