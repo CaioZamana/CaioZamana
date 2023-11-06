@@ -40,7 +40,11 @@ I am an studant enthusiastic developer with a strong interest in technology and 
    
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobello&show_icons=true" alt="Caio Zamana github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />  
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
+  
+   [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=caiobello)](https://github.com/caiobello/)
+
+
 
     📌 Projetos em Destaque
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=santander-Java-backend-market-2023)](https://github.com/caiobello/santander-Java-backend-market-2023)
