@@ -61,7 +61,7 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 <!--Icons: https://github.com/tandpfun/skill-icons#readme -->
 # Stacks:
  ## Cloud Computing
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="63" height="63" /></div>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" /></div>
 
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
