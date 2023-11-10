@@ -67,6 +67,10 @@ I am an studant enthusiastic developer with a strong interest in technology and 
  ## Cloud Computing
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" /></div>
 
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiobello/)<br>
+MySQL, PostgreSQL, MongoDB, NoSQL	
+
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
 Spring, Java, Kotlin, Gradle and Maven
@@ -74,10 +78,6 @@ Spring, Java, Kotlin, Gradle and Maven
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,js,html,css&theme=light)](https://github.com/caiobello/)<br>
 React, NodeJs, NextJs, JavaScript, HTML, CSS.
-
-## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiobello/)<br>
-MySQL, PostgreSQL, MongoDB, NoSQL	
 
 ## Other Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
