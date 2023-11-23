@@ -41,7 +41,13 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobello&show_icons=true" alt="Caio Zamana github stats" /> 
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
-  
+  <table>
+  <tr>
+    <td>
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiobello&theme=github" width="700" height="200" alt="Marcador 1">
+    </td>
+  </tr>
+</table>
 
 
 
