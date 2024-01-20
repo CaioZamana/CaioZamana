@@ -56,7 +56,7 @@ I am an studant enthusiastic developer with a strong interest in technology and 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=tqi_Kotlin_backend_developer_2023)](https://github.com/caiobello/tqi_Kotlin_backend_developer_2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=receitas-praticas-sobremesas-react)](https://github.com/caiobello/receitas-praticas-sobremesas-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=gitfind-react)](https://github.com/caiobello/gitfind-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=frases-poeticas-react)](https://github.com/caiobello/frases-poeticas-react)
+
 
 
 
