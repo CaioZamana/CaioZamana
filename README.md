@@ -77,8 +77,8 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 MySQL, PostgreSQL, MongoDB, NoSQL	
 
  ## Back-end
- [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
-Spring, Java, Kotlin, Gradle and Maven
+ [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
+Spring, Java, Kotlin, NodeJs, Nestjs, TS, Gradle and Maven
 
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,js,html,css&theme=light)](https://github.com/caiobello/)<br>
