@@ -39,12 +39,12 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
    <br>
    
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiobello&show_icons=true" alt="Caio Zamana github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiobello&layout=compact" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiozamana&show_icons=true" alt="Caio Zamana github stats" /> 
+  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiozamana&layout=compact" />
   <table>
   <tr>
     <td>
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiobello&theme=github" width="700" height="200" alt="Marcador 1">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=caiozamana&theme=github" width="700" height="200" alt="Marcador 1">
     </td>
   </tr>
 </table>
@@ -52,10 +52,10 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 
 
     📌 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=santander-Java-backend-market-2023)](https://github.com/caiobello/santander-Java-backend-market-2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=tqi_Kotlin_backend_developer_2023)](https://github.com/caiobello/tqi_Kotlin_backend_developer_2023)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=receitas-praticas-sobremesas-react)](https://github.com/caiobello/receitas-praticas-sobremesas-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiobello&repo=gitfind-react)](https://github.com/caiobello/gitfind-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=santander-Java-backend-market-2023)](https://github.com/caiozamana/santander-Java-backend-market-2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=tqi_Kotlin_backend_developer_2023)](https://github.com/caiozamana/tqi_Kotlin_backend_developer_2023)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=receitas-praticas-sobremesas-react)](https://github.com/caiozamana/receitas-praticas-sobremesas-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=gitfind-react)](https://github.com/caiozamana/gitfind-react)
 
 
 
@@ -73,23 +73,23 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" /></div>
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiobello/)<br>
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiozamana/)<br>
 MySQL, PostgreSQL, MongoDB	
 
  ## Back-end
- [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiobello/)<br>
+ [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiozamana/)<br>
 Spring, Java, Kotlin, NodeJs, Nestjs, TS, Gradle and Maven
 
 ## Front-end
-[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,js,html,css&theme=light)](https://github.com/caiobello/)<br>
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,js,html,css&theme=light)](https://github.com/caiozamana/)<br>
 React, NodeJs, NextJs, JavaScript, HTML, CSS.
 
 ## Other Tools
-[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiobello/)<br>
+[![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiozamana/)<br>
 Docker, Postman, Git and GitHub
 
 ## IDEs
-[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://github.com/caiobello/)<br>
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://github.com/caiozamana/)<br>
 IntelliJ and Visual Studio Code.
 <br>
 
@@ -113,10 +113,10 @@ I am open to new challenges and collaboration opportunities. If you are interest
 <table>
   <tr>
     <td>
-      <img width="80px" align="center" src="https://avatars.githubusercontent.com/caiobello"/>
+      <img width="80px" align="center" src="https://avatars.githubusercontent.com/caiozamana"/>
     </td>
     <td align="left">
-      <a href="https://github.com/caiobello">
+      <a href="https://github.com/caiozamana">
         <span><b>Caio B. Zamana</b></span>
       </a>
       <br>
