@@ -52,7 +52,8 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 
 
     📌 Projetos em Destaque
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=loans_project_springboot3.2.4_java21_version-user-master)](https://github.com/CaioZamana/loans_project_springboot3.2.4_java21_version-user-master)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=loans_project_springboot3.2.4_java21_version-user-master)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=bank-account-java21)](https://github.com/CaioZamana/bank-account-java21)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=santander-Java-backend-market-2023)](https://github.com/caiozamana/santander-Java-backend-market-2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=tqi_Kotlin_backend_developer_2023)](https://github.com/caiozamana/tqi_Kotlin_backend_developer_2023)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=caiozamana&repo=receitas-praticas-sobremesas-react)](https://github.com/caiozamana/receitas-praticas-sobremesas-react)
