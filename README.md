@@ -75,8 +75,8 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="48" height="48" /></div>
 
 ## Database
-[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=light)](https://github.com/caiozamana/)<br>
-MySQL, PostgreSQL, MongoDB	
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light)](https://github.com/caiozamana/)<br>
+MySQL, PostgreSQL, MongoDB, redis
 
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiozamana/)<br>
