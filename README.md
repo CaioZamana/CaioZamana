@@ -76,7 +76,7 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
 
 ## Database
 [![My Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis&theme=light)](https://github.com/caiozamana/)<br>
-MySQL, PostgreSQL, MongoDB, redis
+MySQL, PostgreSQL, MongoDB & Redis
 
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiozamana/)<br>
