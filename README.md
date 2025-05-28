@@ -80,15 +80,15 @@ MySQL, PostgreSQL, MongoDB & Redis
 
  ## Back-end
  [![My Skills](https://skillicons.dev/icons?i=spring,java,kotlin,nodejs,nestjs,ts,gradle,maven&theme=light)](https://github.com/caiozamana/)<br>
-Spring, Java, Kotlin, NodeJs, Nestjs, TS, Gradle and Maven
+Spring, Java, Kotlin, NodeJs, Nestjs, TS, Gradle & Maven
 
 ## Front-end
 [![My Skills](https://skillicons.dev/icons?i=react,nodejs,nextjs,js,html,css&theme=light)](https://github.com/caiozamana/)<br>
-React, NodeJs, NextJs, JavaScript, HTML, CSS.
+React, NodeJs, NextJs, JavaScript, HTML1 & CSS.
 
 ## Other Tools
 [![My Skills](https://skillicons.dev/icons?i=docker,postman,git,github&theme=light)](https://github.com/caiozamana/)<br>
-Docker, Postman, Git and GitHub
+Docker, Postman, Git & GitHub
 
 ## IDEs
 [![My Skills](https://skillicons.dev/icons?i=idea,vscode&theme=light)](https://github.com/caiozamana/)<br>
