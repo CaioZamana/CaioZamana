@@ -40,7 +40,7 @@ I am an System Analyst and Software Developer enthusiastic developer with a stro
    
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caiozamana&show_icons=true" alt="Caio Zamana github stats" /> 
-  <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiozamana&layout=compact" />
+<!--   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiozamana&layout=compact" /> -->
   <table>
   <tr>
     <td>
