@@ -104,12 +104,13 @@ MySql WorkBench, Oracle Virtual Box, XAMPP, Linux Ubuntu, Windows.
 # 
 I am open to new challenges and collaboration opportunities. If you are interested in discussing projects or opportunities, feel free to reach out to me. I am excited to contribute to innovative projects and continue growing as a software developer.
 
-### Dev. Caio B. Zamana
+### Dev. Caio Zamana
+<!--
   <a href="https://www.linkedin.com/in/caiozamana/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   <a href="https://api.whatsapp.com/send?phone=55048991477921" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   <a href = "mailto:caiobzm@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href = "https://www.youtube.com/@CodeTechIntelligence"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  
+   -->
  
 <!--
 <table>
